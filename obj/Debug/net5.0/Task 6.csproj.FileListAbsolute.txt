@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Garage\BackEnd\Task 6\bin\Debug\net5.0\Task 6.exe
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Garage\BackEnd\Task 6\bin\Debug\net5.0\Task 6.deps.json
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Garage\BackEnd\Task 6\bin\Debug\net5.0\Task 6.runtimeconfig.json
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Garage\BackEnd\Task 6\bin\Debug\net5.0\Task 6.runtimeconfig.dev.json
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Garage\BackEnd\Task 6\bin\Debug\net5.0\Task 6.dll
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Garage\BackEnd\Task 6\bin\Debug\net5.0\Task 6.pdb
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Garage\BackEnd\Task 6\obj\Debug\net5.0\Task 6.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Garage\BackEnd\Task 6\obj\Debug\net5.0\Task 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Garage\BackEnd\Task 6\obj\Debug\net5.0\Task 6.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Garage\BackEnd\Task 6\obj\Debug\net5.0\Task 6.AssemblyInfo.cs
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Garage\BackEnd\Task 6\obj\Debug\net5.0\Task 6.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Garage\BackEnd\Task 6\obj\Debug\net5.0\Task 6.dll
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Garage\BackEnd\Task 6\obj\Debug\net5.0\refint\Task 6.dll
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Garage\BackEnd\Task 6\obj\Debug\net5.0\Task 6.pdb
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Garage\BackEnd\Task 6\obj\Debug\net5.0\Task 6.genruntimeconfig.cache
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Garage\BackEnd\Task 6\obj\Debug\net5.0\ref\Task 6.dll

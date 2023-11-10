@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Diagnostics;
+using System.Linq;
 using System.Xml.Linq;
 
 namespace Task_6
@@ -30,16 +31,20 @@ namespace Task_6
 
             //Qeyd!!! hazır metodlardan istifadə etməyin
 
-            Console.WriteLine(IsArrayContains(int[] { 3, 6, 9}, arr2 [ 3,6,8]));
+            int[] arr1 = { 3, 2, 7 };
+            int[] arr3 = { 3, 2, 5, 7 };
+            Console.WriteLine(IsArrayContains(arr1,arr3));
+
         }
         static bool IsArrayContains(int[] arr, int[] arr2)
         {
-            foreach (int i in arr2)
+            if (arr2.All(item => arr.Contains(item)))
             {
-                if (arr[i] == arr2[i])
-                    return true;
-            }return false;
+                return true;
+            }
+            return false; 
         }
+
     }
 }
 

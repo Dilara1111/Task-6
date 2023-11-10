@@ -15,6 +15,8 @@ namespace Task_6
         public string Password { get; set; }
         public string Grade { get; set; }
 
+        
 
     }
+
 }

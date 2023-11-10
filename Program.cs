@@ -33,7 +33,42 @@ namespace Task_6
 
             int[] arr1 = { 3, 2, 7 };
             int[] arr3 = { 3, 2, 5, 7 };
-            Console.WriteLine(IsArrayContains(arr1,arr3));
+            Console.WriteLine(IsArrayContains(arr1, arr3));
+            Console.WriteLine("enter your username: ");
+            string enteredUsername = Console.ReadLine();
+
+
+            Console.WriteLine("Enter your password: ");
+            string enteredPassword = Console.ReadLine();
+            User foundUser = null;
+            User[] users = {
+                new User("user1","jhdsuyh", "pass1", "student"),
+                new User("user2","kjhdfiuh", "pass2", "teacher"),
+                new User("user3","kjhdf", "pass3", "student") };
+            foreach (User user in users)
+            {
+                if (user.Username == enteredUsername && user.Password == enteredPassword)
+                {
+                    foundUser = user;
+                    break;
+                }
+            }
+
+            if (foundUser != null)
+            {
+                if (foundUser.Password == "student")
+                {
+                    Console.WriteLine("You are Student!");
+                }
+                else
+                {
+                    Console.WriteLine("You are not Student");
+                }
+            }
+            else
+            {
+                Console.WriteLine("The information entered is incorrect");
+            }
 
         }
         static bool IsArrayContains(int[] arr, int[] arr2)
@@ -42,7 +77,7 @@ namespace Task_6
             {
                 return true;
             }
-            return false; 
+            return false;
         }
 
     }
